@@ -13,7 +13,7 @@
 		],
 		"originally created by": ""
 	},
-	"translated strings": [
+	"client strings": [
 		{
 			"or": " (%s seconds faster)",
 			"tr": " (%s secondi più veloce)"
@@ -1879,6 +1879,23 @@
 		},
 		{
 			"or": "waiting for more players",
+			"tr": ""
+		}
+	],
+	"server strings": [
+		{
+			"context": "Reinfected",
+			"or": "'%s' has been infected!",
+			"tr": ""
+		},
+		{
+			"context": "Reinfected",
+			"or": "Don't be panic!",
+			"tr": ""
+		},
+		{
+			"context": "Reinfected",
+			"or": "It's zombie time!",
 			"tr": ""
 		}
 	]

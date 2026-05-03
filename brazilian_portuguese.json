@@ -18,7 +18,7 @@
 		],
 		"originally created by": "slinack"
 	},
-	"translated strings": [
+	"client strings": [
 		{
 			"or": " (%s seconds faster)",
 			"tr": " (%s segundos mais rápido)"
@@ -1884,6 +1884,23 @@
 		},
 		{
 			"or": "waiting for more players",
+			"tr": ""
+		}
+	],
+	"server strings": [
+		{
+			"context": "Reinfected",
+			"or": "'%s' has been infected!",
+			"tr": ""
+		},
+		{
+			"context": "Reinfected",
+			"or": "Don't be panic!",
+			"tr": ""
+		},
+		{
+			"context": "Reinfected",
+			"or": "It's zombie time!",
 			"tr": ""
 		}
 	]

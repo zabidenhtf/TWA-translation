@@ -9,7 +9,7 @@
 		],
 		"originally created by": "MK124"
 	},
-	"translated strings": [
+	"client strings": [
 		{
 			"or": " (%s seconds faster)",
 			"tr": "( -%s 秒 )"
@@ -1876,6 +1876,23 @@
 		{
 			"or": "waiting for more players",
 			"tr": "等待更多玩家"
+		}
+	],
+	"server strings": [
+		{
+			"context": "Reinfected",
+			"or": "'%s' has been infected!",
+			"tr": "'%s' 已被感染!"
+		},
+		{
+			"context": "Reinfected",
+			"or": "Don't be panic!",
+			"tr": "不要惊慌!"
+		},
+		{
+			"context": "Reinfected",
+			"or": "It's zombie time!",
+			"tr": "现在是僵尸时间!"
 		}
 	]
 }

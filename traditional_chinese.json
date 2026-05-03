@@ -6,7 +6,7 @@
 		],
 		"originally created by": "TsFreddie"
 	},
-	"translated strings": [
+	"client strings": [
 		{
 			"or": " (%s seconds faster)",
 			"tr": "( -%s 秒 )"
@@ -1561,7 +1561,7 @@
 		},
 		{
 			"or": "Teeworlds Archive %s is out!",
-			"tr": ""
+			"tr": "Teeworlds Archive %s現已發布!"
 		},
 		{
 			"or": "Texture",
@@ -1873,6 +1873,23 @@
 		{
 			"or": "waiting for more players",
 			"tr": "等待更多玩家"
+		}
+	],
+	"server strings": [
+		{
+			"context": "Reinfected",
+			"or": "'%s' has been infected!",
+			"tr": "'%s' 已被感染!"
+		},
+		{
+			"context": "Reinfected",
+			"or": "Don't be panic!",
+			"tr": "不要驚慌!"
+		},
+		{
+			"context": "Reinfected",
+			"or": "It's zombie time!",
+			"tr": "現在是殭屍時間!"
 		}
 	]
 }
