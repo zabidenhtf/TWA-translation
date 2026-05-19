@@ -469,6 +469,14 @@
 			"tr": "控制"
 		},
 		{
+			"or": "Copy",
+			"tr": "複製"
+		},
+		{
+			"or": "Couldn't load screenshot file",
+			"tr": "無法加載截圖文件"
+		},
+		{
 			"or": "Count players only",
 			"tr": "屏蔽旁觀位"
 		},
@@ -683,6 +691,10 @@
 			"tr": "全屏幕"
 		},
 		{
+			"or": "GUI Volume",
+			"tr": "界面音量"
+		},
+		{
 			"or": "Game",
 			"tr": "遊戲"
 		},
@@ -725,6 +737,10 @@
 		{
 			"or": "Global",
 			"tr": "互聯網"
+		},
+		{
+			"or": "Global Volume",
+			"tr": "全局音量"
 		},
 		{
 			"context": "Flag grabs",
@@ -896,6 +912,10 @@
 			"tr": "地圖"
 		},
 		{
+			"or": "Map Volume",
+			"tr": "地圖音量"
+		},
+		{
 			"or": "Map changed to '%s'",
 			"tr": "地圖已更換為 '%s'"
 		},
@@ -959,6 +979,10 @@
 		{
 			"or": "Movement",
 			"tr": "移動"
+		},
+		{
+			"or": "Music Volume",
+			"tr": "音樂音量"
 		},
 		{
 			"or": "Mute broadcasts",
@@ -1288,10 +1312,6 @@
 			"tr": "回合結束!"
 		},
 		{
-			"or": "Sample rate",
-			"tr": "採樣率"
-		},
-		{
 			"or": "Sat:",
 			"tr": "飽和度："
 		},
@@ -1433,7 +1453,11 @@
 		},
 		{
 			"or": "Some map sounds could not be loaded. Check the local console for details.",
-			"tr": ""
+			"tr": "部分地圖音效無法加載，檢查控制台得到更多信息。"
+		},
+		{
+			"or": "Sorting unrecommended",
+			"tr": "排序不推薦"
 		},
 		{
 			"or": "Sound",
@@ -1624,8 +1648,16 @@
 			"tr": "有未保存的地圖；你可能希望在退出遊戲前保存它"
 		},
 		{
+			"or": "There's no any thumbnail for screenshots",
+			"tr": "沒有找到任何截圖的縮略圖"
+		},
+		{
 			"or": "This server is protected by a password.",
 			"tr": "這個伺服器被密碼保護"
+		},
+		{
+			"or": "This server is unrecommended because its gametype only offers a better experience on the dedicated client.",
+			"tr": "這個伺服器因它的遊戲類型僅在專有客戶端上提供更好體驗而不被推薦"
 		},
 		{
 			"or": "Time limit",
@@ -1646,6 +1678,10 @@
 		{
 			"or": "Try again",
 			"tr": "重試"
+		},
+		{
+			"or": "Tutorial",
+			"tr": "教程"
 		},
 		{
 			"or": "Type",
@@ -1781,8 +1817,8 @@
 			"tr": "私信"
 		},
 		{
-			"or": "Wide menu",
-			"tr": "寬屏菜單"
+			"or": "World Volume",
+			"tr": "世界音量"
 		},
 		{
 			"or": "Yes",
@@ -1879,17 +1915,69 @@
 		{
 			"context": "Reinfected",
 			"or": "'%s' has been infected!",
-			"tr": "'%s' 已被感染!"
+			"tr": "'%s' 已被感染！"
+		},
+		{
+			"or": "And then if you get close to the other one, you will capture the flag for that flag's team.",
+			"tr": "然後你可以接近另一面旗幟，你就會為那個旗幟的隊伍奪旗"
 		},
 		{
 			"context": "Reinfected",
 			"or": "Don't be panic!",
-			"tr": "不要驚慌!"
+			"tr": "不要驚慌！"
+		},
+		{
+			"or": "Feel free to use these weapons! And, look the top left of your screen, those are your ammos.",
+			"tr": "隨便用這些武器！還有看屏幕左上角，那是你的彈藥量。"
+		},
+		{
+			"or": "Good job! Now you can capture this flag for other flag's team!",
+			"tr": "幹得好！現在你可以為另一旗幟的隊伍奪旗。"
+		},
+		{
+			"or": "Hello! It's tutorial day! Moving yourself to the right of this cave.",
+			"tr": "你好！現在是教程日！移動你自己到洞穴右側。"
+		},
+		{
+			"or": "I guess you need to get out of this cave now.",
+			"tr": "我猜你現在應該需要離開這個洞穴。"
 		},
 		{
 			"context": "Reinfected",
 			"or": "It's zombie time!",
-			"tr": "現在是殭屍時間!"
+			"tr": "現在是殭屍時間！"
+		},
+		{
+			"or": "Just hook the blocks above! It's usually triggered by your right mouse button.",
+			"tr": "只需要勾住上方的方塊！那通常是通過你鼠標右鍵來做到。"
+		},
+		{
+			"or": "Nice job! Now we can see there are two flags out of the cave.",
+			"tr": "做得好！現在我們可以看見洞穴外有兩面旗幟。"
+		},
+		{
+			"or": "Now I have set up some obstacles, and you need to finish it.",
+			"tr": "我現在設置了一些障礙，然後你需要完成它。"
+		},
+		{
+			"or": "Now I suggest joining other servers!",
+			"tr": "現在我建議你加入其他伺服器！"
+		},
+		{
+			"or": "Really easy, isn't it?",
+			"tr": "非常簡單，不是嗎？"
+		},
+		{
+			"or": "The CTF training is over.",
+			"tr": "奪旗訓練結束了。"
+		},
+		{
+			"or": "You can pick one of them up.",
+			"tr": "你可以拾起它們中的一個。"
+		},
+		{
+			"or": "You have finished this tutorial!",
+			"tr": "你已經完成了本教程！"
 		}
 	]
 }

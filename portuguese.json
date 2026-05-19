@@ -473,6 +473,14 @@
 			"tr": "Controlos"
 		},
 		{
+			"or": "Copy",
+			"tr": ""
+		},
+		{
+			"or": "Couldn't load screenshot file",
+			"tr": ""
+		},
+		{
 			"or": "Count players only",
 			"tr": "Contar apenas jogadores"
 		},
@@ -687,6 +695,10 @@
 			"tr": "Ecrã inteiro"
 		},
 		{
+			"or": "GUI Volume",
+			"tr": ""
+		},
+		{
 			"or": "Game",
 			"tr": "Jogo"
 		},
@@ -729,6 +741,10 @@
 		{
 			"or": "Global",
 			"tr": "Global"
+		},
+		{
+			"or": "Global Volume",
+			"tr": ""
 		},
 		{
 			"context": "Flag grabs",
@@ -900,6 +916,10 @@
 			"tr": "Mapa"
 		},
 		{
+			"or": "Map Volume",
+			"tr": ""
+		},
+		{
 			"or": "Map changed to '%s'",
 			"tr": ""
 		},
@@ -963,6 +983,10 @@
 		{
 			"or": "Movement",
 			"tr": "Movimento"
+		},
+		{
+			"or": "Music Volume",
+			"tr": ""
 		},
 		{
 			"or": "Mute broadcasts",
@@ -1292,10 +1316,6 @@
 			"tr": "Fim da ronda!"
 		},
 		{
-			"or": "Sample rate",
-			"tr": "Frequência do som"
-		},
-		{
 			"or": "Sat:",
 			"tr": "Saturação:"
 		},
@@ -1437,6 +1457,10 @@
 		},
 		{
 			"or": "Some map sounds could not be loaded. Check the local console for details.",
+			"tr": ""
+		},
+		{
+			"or": "Sorting unrecommended",
 			"tr": ""
 		},
 		{
@@ -1628,7 +1652,15 @@
 			"tr": ""
 		},
 		{
+			"or": "There's no any thumbnail for screenshots",
+			"tr": ""
+		},
+		{
 			"or": "This server is protected by a password.",
+			"tr": ""
+		},
+		{
+			"or": "This server is unrecommended because its gametype only offers a better experience on the dedicated client.",
 			"tr": ""
 		},
 		{
@@ -1650,6 +1682,10 @@
 		{
 			"or": "Try again",
 			"tr": "Voltar a tentar"
+		},
+		{
+			"or": "Tutorial",
+			"tr": ""
 		},
 		{
 			"or": "Type",
@@ -1785,7 +1821,7 @@
 			"tr": "Sussurrar"
 		},
 		{
-			"or": "Wide menu",
+			"or": "World Volume",
 			"tr": ""
 		},
 		{
@@ -1886,13 +1922,65 @@
 			"tr": ""
 		},
 		{
+			"or": "And then if you get close to the other one, you will capture the flag for that flag's team.",
+			"tr": ""
+		},
+		{
 			"context": "Reinfected",
 			"or": "Don't be panic!",
 			"tr": ""
 		},
 		{
+			"or": "Feel free to use these weapons! And, look the top left of your screen, those are your ammos.",
+			"tr": ""
+		},
+		{
+			"or": "Good job! Now you can capture this flag for other flag's team!",
+			"tr": ""
+		},
+		{
+			"or": "Hello! It's tutorial day! Moving yourself to the right of this cave.",
+			"tr": ""
+		},
+		{
+			"or": "I guess you need to get out of this cave now.",
+			"tr": ""
+		},
+		{
 			"context": "Reinfected",
 			"or": "It's zombie time!",
+			"tr": ""
+		},
+		{
+			"or": "Just hook the blocks above! It's usually triggered by your right mouse button.",
+			"tr": ""
+		},
+		{
+			"or": "Nice job! Now we can see there are two flags out of the cave.",
+			"tr": ""
+		},
+		{
+			"or": "Now I have set up some obstacles, and you need to finish it.",
+			"tr": ""
+		},
+		{
+			"or": "Now I suggest joining other servers!",
+			"tr": ""
+		},
+		{
+			"or": "Really easy, isn't it?",
+			"tr": ""
+		},
+		{
+			"or": "The CTF training is over.",
+			"tr": ""
+		},
+		{
+			"or": "You can pick one of them up.",
+			"tr": ""
+		},
+		{
+			"or": "You have finished this tutorial!",
 			"tr": ""
 		}
 	]
