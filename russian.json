@@ -15,7 +15,7 @@
 			"CreepDT, 2014 (Transifex)",
 			"vlad nikolaev, 2018 (Transifex)",
 			"Алексей Уваров, 2018 (Transifex)",
-			"Полищук Никита aka zabidenhtf, 2026-05-21 (Tutorial translation)"
+			"Полищук Никита aka zabidenhtf, 2026-05-21 (Tutorial/UI translation)"
 		],
 		"originally created by": "kaddyd"
 	},
@@ -1658,19 +1658,19 @@
 		},
 		{
 			"or": "There's an unsaved map in the editor; you may want to save it before you quit the game.",
-			"tr": ""
+			"tr": "В редакторе есть несохранённая карта. Сохранить перед выходом?"
 		},
 		{
 			"or": "There's no any thumbnail for screenshots",
-			"tr": ""
+			"tr": "Нету никаких картинок или скриншотов"
 		},
 		{
 			"or": "This server is protected by a password.",
-			"tr": ""
+			"tr": "Этот сервер защищён паролем."
 		},
 		{
 			"or": "This server is unrecommended because its gametype only offers a better experience on the dedicated client.",
-			"tr": ""
+			"tr": "Сервер не рекомендуется. Этот игровой режим лучше работает в отдельном клиенте."
 		},
 		{
 			"or": "Time limit",
@@ -1702,7 +1702,7 @@
 		},
 		{
 			"or": "UI scale",
-			"tr": ""
+			"tr": "Размер интерфейса"
 		},
 		{
 			"or": "Unable to delete the demo",
@@ -1718,11 +1718,11 @@
 		},
 		{
 			"or": "Unable to save the skin",
-			"tr": ""
+			"tr": "Невозможно сохранить скин"
 		},
 		{
 			"or": "Unable to save the skin with a reserved name",
-			"tr": ""
+			"tr": "Невозможно сохранить скин с зарезервированным никнеймом"
 		},
 		{
 			"or": "Use OS mouse acceleration",
@@ -1754,11 +1754,11 @@
 		},
 		{
 			"or": "Vote No",
-			"tr": ""
+			"tr": "Нет"
 		},
 		{
 			"or": "Vote Yes",
-			"tr": ""
+			"tr": "Да"
 		},
 		{
 			"or": "Vote aborted",
