@@ -14,7 +14,8 @@
 			"maxcroud, 2014 (Transifex)",
 			"CreepDT, 2014 (Transifex)",
 			"vlad nikolaev, 2018 (Transifex)",
-			"Алексей Уваров, 2018 (Transifex)"
+			"Алексей Уваров, 2018 (Transifex)",
+			"Полищук Никита, 2026-05-21 (Tutorial translation)"
 		],
 		"originally created by": "kaddyd"
 	},
@@ -1693,7 +1694,7 @@
 		},
 		{
 			"or": "Tutorial",
-			"tr": ""
+			"tr": "Туториал"
 		},
 		{
 			"or": "Type",
@@ -1940,19 +1941,19 @@
 		},
 		{
 			"or": "Feel free to use these weapons! And, look the top left of your screen, those are your ammos.",
-			"tr": ""
+			"tr": "Думаю ты можешь использовать для этого оружия. И да, ты можешь смотреть количество патронов сверху слева."
 		},
 		{
 			"or": "Good job! Now you can capture this flag for other flag's team!",
-			"tr": ""
+			"tr": "Отличная работа! Теперь тебе надо захватить флаг."
 		},
 		{
 			"or": "Hello! It's tutorial day! Moving yourself to the right of this cave.",
-			"tr": ""
+			"tr": "Привет! Это начало туториала. Доберись до правой части пещеры."
 		},
 		{
 			"or": "I guess you need to get out of this cave now.",
-			"tr": ""
+			"tr": "Тебе нужно выбратся из этой пещеры."
 		},
 		{
 			"context": "Reinfected",
@@ -1961,35 +1962,35 @@
 		},
 		{
 			"or": "Just hook the blocks above! It's usually triggered by your right mouse button.",
-			"tr": ""
+			"tr": "Просто прицепись к блокам сверху. Что бы активировать крюк используй правую кнопку миши."
 		},
 		{
 			"or": "Nice job! Now we can see there are two flags out of the cave.",
-			"tr": ""
+			"tr": "Отлично! Теперь ты можешь увидеть 2 флага возле пещеры."
 		},
 		{
 			"or": "Now I have set up some obstacles, and you need to finish it.",
-			"tr": ""
+			"tr": "Теперь тут есть немного препятсвий, тебе нужно пройти их."
 		},
 		{
 			"or": "Now I suggest joining other servers!",
-			"tr": ""
+			"tr": "Теперь я думаю ты можешь подключатся к другим серверам."
 		},
 		{
 			"or": "Really easy, isn't it?",
-			"tr": ""
+			"tr": "Легко, да?"
 		},
 		{
 			"or": "The CTF training is over.",
-			"tr": ""
+			"tr": "Тренировка CTF закончена."
 		},
 		{
 			"or": "You can pick one of them up.",
-			"tr": ""
+			"tr": "Ты можешь подобрать один из них."
 		},
 		{
 			"or": "You have finished this tutorial!",
-			"tr": ""
+			"tr": "Ты закончил туториал!"
 		}
 	]
 }
